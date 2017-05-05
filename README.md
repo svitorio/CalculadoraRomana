@@ -10,3 +10,5 @@ Fique atento a tela do meio pois se tiver o sinal de alguma operação sem nenhu
 a aplicação vai parar.
 
 Obs: A Calculadora so  vai até 899.
+
+A ferramenta foi criada no Android Studio 2.3
